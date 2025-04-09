@@ -1,0 +1,6 @@
+# Ignore build files and IDE settings
+target/
+*.class
+*.jar
+.DS_Store
+.idea/
